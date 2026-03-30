@@ -1,0 +1,82 @@
+baseURL: "https://stefanfox2000.github.io/"
+languageCode: "ro"
+title: "Stefan din Sud"
+theme: "PaperMod"
+defaultContentLanguage: "ro"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+pagination:
+  pagerSize: 10
+
+params:
+  env: production
+  author: "Stefan Cristian"
+  description: "Reflecții, gânduri și observații din sudul României"
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+
+  homeInfoParams:
+    Title: "Stefan din Sud"
+    Content: >
+      Bine ai venit. Aici scriu despre ce mă frământă — istorie, 
+      geopolitică, filozofie, tehnologie și viața de zi cu zi 
+      în sudul României.
+
+  socialIcons:
+    - name: rss
+      url: "index.xml"
+
+  label:
+    text: "Stefan din Sud"
+
+  assets:
+    favicon: "/favicon.ico"
+
+menu:
+  main:
+    - identifier: arhiva
+      name: Arhivă
+      url: /archives/
+      weight: 5
+    - identifier: categorii
+      name: Categorii
+      url: /categories/
+      weight: 10
+    - identifier: etichete
+      name: Etichete
+      url: /tags/
+      weight: 15
+    - identifier: despre
+      name: Despre
+      url: /about/
+      weight: 20
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
