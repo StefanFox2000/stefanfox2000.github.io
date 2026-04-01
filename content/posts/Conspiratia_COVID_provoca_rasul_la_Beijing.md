@@ -1,7 +1,7 @@
 ---
 title: "Conspirația COVID și controlul social: analiză comparativă cu China lui Mao"
 description: "Analiză logică a teoriilor conspiraționiste COVID prin comparație cu controlul social real din China lui Mao și regimurile autoritare moderne."
-date: 2026-04-02
+date: 2026-04-01
 tags: [covid, conspiratii, china, mao, propaganda, geopolitica, tiktok, dezinformare]
 categories: [analiza, societate, geopolitica]
 author: "Ștefan Cel Mic"
