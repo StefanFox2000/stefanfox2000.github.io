@@ -1,7 +1,9 @@
 +++
-title = "Damen Mangalia intră în faliment"
-date = 2026-04-08T10:00:00
+title = "Când statul vrea să salveze o industrie… și ajunge să o piardă"
+date = "2026-04-08"
 draft = false
+tags = ["industrie", "Damen", "Mangalia", "economie", "stat", "Romania"]
+description = "Cum a ajuns intervenția statului la Mangalia să slăbească exact capacitatea industrială pe care pretindea că o protejează."
 +++
 # Când statul vrea să salveze o industrie… și ajunge să o piardă
 
