@@ -1,4 +1,13 @@
-## Țevi, oțel și iluzii: cum ratăm realitatea economică în timp ce o comentăm
+---
+title: "Țevi, oțel și iluzii: cum ratăm realitatea economică în timp ce o comentăm"
+description: "De la reacțiile suveraniste la vânzarea fabricii de la Roman până la lecțiile despre economiile de succes, limitele independenței economice și noul rol strategic al Ucrainei."
+date: 2026-04-15
+tags: [industrie, otel, tevi, economie, Ucraina, Interpipe, ArcelorMittal, suveranism, reconstructie, aparare]
+categories: [analiza, economie, geopolitica]
+author: "Ștefan Cel Mic"
+keywords: ["Interpipe Roman", "Petrotub Roman", "otel Romania Ucraina", "independenta economica", "reconstructia Ucrainei", "industrie strategica Romania"]
+draft: false
+---
 
 În ultimele zile a circulat intens o știre aparent banală: fabrica de țevi fără sudură de la Roman, cunoscută în trecut ca Petrotub și mai recent parte din ArcelorMittal, a fost vândută către Interpipe, companie controlată de omul de afaceri ucrainean Victor Pinchuk.
 
