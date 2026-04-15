@@ -1,3 +1,8 @@
++++
+title = "Damen Mangalia intră în faliment"
+date = 2026-04-08T10:00:00
+draft = false
++++
 # Când statul vrea să salveze o industrie… și ajunge să o piardă
 
 Există o idee care revine constant în discursul public românesc: dacă în Occident statul intervine în economie, atunci și la noi intervenția statului este, prin definiție, justificată. La prima vedere, argumentul pare solid. Numai că realitatea este mai nuanțată, iar diferența dintre succes și eșec nu stă în intervenție, ci în modul în care aceasta este făcută.
