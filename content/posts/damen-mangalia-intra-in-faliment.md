@@ -1,10 +1,13 @@
-+++
-title = "Când statul vrea să salveze o industrie… și ajunge să o piardă"
-date = "2026-04-08"
-draft = false
-tags = ["industrie", "Damen", "Mangalia", "economie", "stat", "Romania"]
-description = "Cum a ajuns intervenția statului la Mangalia să slăbească exact capacitatea industrială pe care pretindea că o protejează."
-+++
+---
+title: "Când statul vrea să salveze o industrie și ajunge să o piardă"
+description: "Cum a ajuns intervenția statului la Mangalia să slăbească exact capacitatea industrială pe care pretindea că o protejează."
+date: 2026-04-08
+tags: [industrie, Damen, Mangalia, economie, stat, faliment]
+categories: [analiza, economie, industrie]
+author: "Ștefan Cel Mic"
+keywords: ["Damen Mangalia faliment", "statul in economie", "industrie strategica Romania", "Mangalia Damen analiza"]
+draft: false
+---
 # Când statul vrea să salveze o industrie… și ajunge să o piardă
 
 Există o idee care revine constant în discursul public românesc: dacă în Occident statul intervine în economie, atunci și la noi intervenția statului este, prin definiție, justificată. La prima vedere, argumentul pare solid. Numai că realitatea este mai nuanțată, iar diferența dintre succes și eșec nu stă în intervenție, ci în modul în care aceasta este făcută.
