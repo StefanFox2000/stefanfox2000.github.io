@@ -80,3 +80,6 @@ outputs:
     - HTML
     - RSS
     - JSON
+services:
+  googleAnalytics:
+    id: G-6S22VB42NR
