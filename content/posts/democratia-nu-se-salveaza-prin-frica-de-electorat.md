@@ -1,12 +1,11 @@
 ---
-
 title: "Democrația nu se salvează prin frica de electorat"
 date: 2026-06-16
 draft: false
 tags: ["democrație", "constituție", "politică", "instituții", "România"]
 categories: ["Politică"]
 summary: "O reflecție despre tentația elitelor de a administra democrația de sus, despre rolul constituțional al președintelui și despre nevoia ca instituțiile statului să rămână arbitri, nu jucători politici."
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 Există momente în viața unei democrații în care pericolul nu vine doar de la extremiști, populiști sau demagogi. Vine și din partea celor care spun că apără democrația, dar încep să creadă că democrația este prea importantă ca să fie lăsată pe mâna alegătorilor.
 
